@@ -95,8 +95,8 @@ const exerciseUnits = {
   'Modeling' : 43,
   'Concepts' : 9,
   'Hypothesis Testing': 3,
-  'Methods of Estimation': 24,
-  'Derivadas': 24
+  'Methods of Estimation': 59,
+  'Derivadas': 30
 };
 
 var activeUnits = {... exerciseUnits};
