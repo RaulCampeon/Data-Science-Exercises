@@ -90,12 +90,12 @@ const exerciseUnits = {
   'Neural Networks' : 33,
   'Unsupervised Learning' : 35,
   'Reinforcment Learning' : 16,
-  'Estimators and Confidence Intervals' : 34,
+  'Estimators and Confidence Intervals' : 35,
   'Gaussian Distribution' : 13,
   'Modeling' : 43,
   'Concepts' : 9,
-  'Hypothesis Testing': 3,
-  'Methods of Estimation': 81,
+  'Hypothesis Testing': 31,
+  'Methods of Estimation': 83,
   'Derivadas': 30
 };
 
