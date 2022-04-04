@@ -94,7 +94,7 @@ const exerciseUnits = {
   'Gaussian Distribution' : 13,
   'Modeling' : 43,
   'Concepts' : 9,
-  'Hypothesis Testing': 31,
+  'Parametric Hypothesis testing': 72,
   'Methods of Estimation': 83,
   'Derivadas': 30
 };
