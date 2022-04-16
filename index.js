@@ -95,6 +95,7 @@ const exerciseUnits = {
   'Modeling' : 43,
   'Concepts' : 9,
   'Parametric Hypothesis testing': 72,
+  'Nonparametric Hypothesis testing': 42,
   'Methods of Estimation': 83,
   'Derivadas': 30
 };
