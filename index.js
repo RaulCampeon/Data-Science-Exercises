@@ -98,7 +98,8 @@ const exerciseUnits = {
   'Nonparametric Hypothesis testing': 42,
   'Methods of Estimation': 86,
   'Derivadas': 30,
-  'Generalized Linear Models': 23
+  'Generalized Linear Models': 27,
+  'Algebra Lineal' : 6
 };
 
 var activeUnits = {... exerciseUnits};
