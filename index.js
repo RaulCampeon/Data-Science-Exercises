@@ -99,7 +99,7 @@ const exerciseUnits = {
   'Methods of Estimation': 86,
   'Derivadas': 30,
   'Generalized Linear Models': 27,
-  'Algebra lineal' : 6
+  'Algebra lineal' : 20
 };
 
 var activeUnits = {... exerciseUnits};
